@@ -1,0 +1,59 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "TV",
+      "price": 200,
+      "currency": "EUR"
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 200,
+      "currency": "EUR"
+    },
+    {
+      "id": 3,
+      "name": "PC",
+      "price": 200,
+      "currency": "EUR"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "TV",
+      "price": 200,
+      "currency": "EUR",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 200,
+      "currency": "EUR",
+      "quantity": 6
+    },
+    {
+      "id": 3,
+      "name": "PC",
+      "price": 200,
+      "currency": "EUR",
+      "quantity": 8
+    },
+    {
+      "name": "TV",
+      "price": 200,
+      "currency": "EUR",
+      "quantity": 7,
+      "id": 4
+    },
+    {
+      "name": "TV",
+      "price": 200,
+      "currency": "EUR",
+      "quantity": 5,
+      "id": 5
+    }
+  ]
+}
